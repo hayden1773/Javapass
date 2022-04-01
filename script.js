@@ -24,6 +24,7 @@ prompt5= window.confirm ("how many characters")
   if (prompt1 == prompt1);{
     upperCase = Math.floor(Math.random* upperCase.length)
     console.log ("confirm")
+    
   }
 
 
